@@ -117,8 +117,7 @@
 <hr />
 </br>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=aromalanil&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
-        width="130" /><br />
+   <br />
     <a href="https://www.buymeacoffee.com/dotmantosh" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
 </div>

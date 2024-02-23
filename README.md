@@ -7,7 +7,7 @@
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Fullstack developer</b> 🚀 from <b>Lagos, Nigeria</b>. <br />
-        I love web2 projects 😍😍, and web3 projects 😍😍😍. </p>
+        I enjoy working web2 projects 😍😍, as well as web3 projects 😍😍😍. </p>
     <div>
         <a href="https://twitter.com/dot_has_spoken" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>

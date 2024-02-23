@@ -35,13 +35,13 @@
                 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
                 width="16" /></li>
             <li> 💬 Ask me anything about Blockchain <img align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1450319450/47/nodejs.png?1450319450"
+                src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"
                 width="16" /></li>
             <li>⚙️ I'm also proficient in C# ASP.NET <img align="center"
-                src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/aspnet_1f5a5.png"
+                src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
                 width="16" /></li>
             <li> 🎓 I'm currently growing my expertise in web3 technologies, as I do Solidity, ethers and hardhart development framework <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
+                    src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />

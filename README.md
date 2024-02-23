@@ -31,9 +31,18 @@
                     width="16" />, Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="16" /></li>
+            <li> 💬 Ask me anything about Node.js <img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1450319450/47/nodejs.png?1450319450"
+                width="16" /></li>
+            <li> 💬 Ask me anything about Blockchain <img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1450319450/47/nodejs.png?1450319450"
+                width="16" /></li>
             <li> 🎓 I'm currently growing my expertise in web3 technologies, as I do Solidity, ethers and hardhart development framework <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
                     width="16" /></li>
+            <li>⚙️ I'm also proficient in C# ASP.NET <img align="center"
+                src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/aspnet_1f5a5.png"
+                width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:aromalanilkannan@gmail.com" target="_blank">dotuntosh@gmail.com</a></li>

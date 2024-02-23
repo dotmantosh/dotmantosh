@@ -6,8 +6,7 @@
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Fullstack developer</b> 🚀 from <b>Lagos, Nigeria</b> <img
-            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+        I am a <b>Fullstack developer</b> 🚀 from <b>Lagos, Nigeria</b>. <br />
         I love web2 projects 😍😍, and web3 projects 😍😍😍. </p>
     <div>
         <a href="https://twitter.com/dot_has_spoken" target="_blank"><img alt="Twitter"

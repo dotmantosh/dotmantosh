@@ -32,7 +32,7 @@
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="16" /></li>
             <li> 💬 Ask me anything about Node.js <img align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1450319450/47/nodejs.png?1450319450"
+                src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
                 width="16" /></li>
             <li> 💬 Ask me anything about Blockchain <img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1450319450/47/nodejs.png?1450319450"

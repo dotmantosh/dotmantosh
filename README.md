@@ -39,7 +39,7 @@
             <li>⚙️ I'm also proficient in C# ASP.NET <img align="center"
                 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
                 width="16" /></li>
-            <li> 🎓 I'm currently growing my expertise in web3 technologies, as I do Solidity, ethers and hardhart development framework <img align="center"
+            <li> 🎓 I'm currently growing my expertise in web3 technologies, as I do solidity, ethersjs, and hardhart development framework <img align="center"
                     src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"

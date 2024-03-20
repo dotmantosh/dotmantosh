@@ -44,7 +44,7 @@
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:aromalanilkannan@gmail.com" target="_blank">dotuntosh@gmail.com</a></li>
+                <a href="mailto:dotuntosh@gmail.com" target="_blank">dotuntosh@gmail.com</a></li>
 <!--             <li>👀 Take a look at <a href="https://myportfoliowebsite/dotmantosh" target="_blank">My Portfolio</a></li> -->
 <!--             <li>📄 Here's my <a href="https://aromalanil.in/assets/resources/resume.pdf" target="_blank">Resume</a></li> -->
         </ul>

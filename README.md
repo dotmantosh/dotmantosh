@@ -24,7 +24,7 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I currently work as a FullStack developer @ Xown Solutions Limited, and I get my hands dirty on any other impressive side projects ✍🏻</li>
+            <li> 👨🏻‍💻 I currently work as a FullStack developer in lagos✍🏻</li>
             <li> 💬 Ask me anything about React/Next <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="16" />, Javascript <img align="center"
